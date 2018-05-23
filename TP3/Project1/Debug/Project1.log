@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\administrador\documents\visual studio 2015\projects\project1\project1\main.cpp(4): error C2039: 'cout': no es un miembro de 'std'
+  c:\users\administrador\documents\visual studio 2015\projects\project1\project1\predefined c++ types (compiler internal)(208): note: vea la declaración de 'std'
+c:\users\administrador\documents\visual studio 2015\projects\project1\project1\main.cpp(4): error C2065: 'cout': identificador no declarado
